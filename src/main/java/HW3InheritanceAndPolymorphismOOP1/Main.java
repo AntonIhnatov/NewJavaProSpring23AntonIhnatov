@@ -82,6 +82,5 @@ public class Main {
         game1.shareResultOnFacebook();
         game1.shareResultOnYouTube();
 
-
     }
 }
